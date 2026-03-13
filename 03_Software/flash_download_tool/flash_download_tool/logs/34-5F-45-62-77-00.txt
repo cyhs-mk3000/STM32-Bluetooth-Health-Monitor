@@ -1,0 +1,160 @@
+*************************** START ****************************
+Chip: ESP8266
+Download mode: uart
+Start time: 20250624-14:56
+Connect baud: 115200
+Com:COM6
+connecting...
+0x3ff00050: 005e0000
+0x3ff00054: 02006277
+0x3ff00058: b400b000
+0x3ff0005c: 00345f45
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 180
+target crc val: 180
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 94
+target crc val: 94
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:005E0000
+    REG1:02006277
+    REG2:b400b000
+    REG3:00345F45
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 34 5f 45 62 77 00CUSTOM_ID: 0B 40 00 00 00 05 E0 00 
+MAC AP : 36-5F-45-62-77-00
+MAC STA: 34-5F-45-62-77-00
+manufacturer_id: 0x5e
+device_id: 0x6014
+fs:0x0
+address/file: 0 <_io.BufferedReader name='D:\\242小学期\\flash_download_tool\\flash_download_tool\\dl_temp\\bin_tmp\\downloadPanel1\\GAgent_00ESP826_04020034_32Mbit_combine_201806091446.bin_rep'>
+Wrote 4194304 bytes at 0x00000000 in 34.1 seconds (effective 982.8 kbit/s)...
+File: D:\242小学期\flash_download_tool\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\GAgent_00ESP826_04020034_32Mbit_combine_201806091446.bin
+File  md5: 45131962856b5d2038432c7c016beca7
+Flash md5: 4ccd83bb2b66cc6750437a57da5364f7
+MD5 of file does not match data in flash!
+*************************** START ****************************
+Chip: ESP8266
+Download mode: uart
+Start time: 20250624-14:59
+Connect baud: 115200
+Com:COM6
+connecting...
+0x3ff00050: 005e0000
+0x3ff00054: 02006277
+0x3ff00058: b400b000
+0x3ff0005c: 00345f45
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 180
+target crc val: 180
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 94
+target crc val: 94
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:005E0000
+    REG1:02006277
+    REG2:b400b000
+    REG3:00345F45
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 34 5f 45 62 77 00CUSTOM_ID: 0B 40 00 00 00 05 E0 00 
+MAC AP : 36-5F-45-62-77-00
+MAC STA: 34-5F-45-62-77-00
+manufacturer_id: 0x5e
+device_id: 0x6014
+fs:0x0
+address/file: 0 <_io.BufferedReader name='D:\\242小学期\\flash_download_tool\\flash_download_tool\\dl_temp\\bin_tmp\\downloadPanel1\\GAgent_00ESP826_04020034_32Mbit_combine_201806091446.bin_rep'>
+Wrote 4194304 bytes at 0x00000000 in 34.1 seconds (effective 984.2 kbit/s)...
+File: D:\242小学期\flash_download_tool\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\GAgent_00ESP826_04020034_32Mbit_combine_201806091446.bin
+File  md5: 45131962856b5d2038432c7c016beca7
+Flash md5: 4ccd83bb2b66cc6750437a57da5364f7
+MD5 of file does not match data in flash!
+*************************** START ****************************
+Chip: ESP8266
+Download mode: uart
+Start time: 20250624-15:04
+Connect baud: 115200
+Com:COM6
+connecting...
+0x3ff00050: 005e0000
+0x3ff00054: 02006277
+0x3ff00058: b400b000
+0x3ff0005c: 00345f45
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 180
+target crc val: 180
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 94
+target crc val: 94
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:005E0000
+    REG1:02006277
+    REG2:b400b000
+    REG3:00345F45
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 34 5f 45 62 77 00CUSTOM_ID: 0B 40 00 00 00 05 E0 00 
+MAC AP : 36-5F-45-62-77-00
+MAC STA: 34-5F-45-62-77-00
+manufacturer_id: 0x5e
+device_id: 0x6014
+fs:0x0
+address/file: 0 <_io.BufferedReader name='D:\\242小学期\\flash_download_tool\\flash_download_tool\\dl_temp\\bin_tmp\\downloadPanel1\\GAgent_00ESP826_04020034_8MbitUser1_combine_201806091441.bin_rep'>
+Wrote 1048576 bytes at 0x00000000 in 27.0 seconds (effective 310.5 kbit/s)...
+File: D:\242小学期\flash_download_tool\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\GAgent_00ESP826_04020034_8MbitUser1_combine_201806091441.bin
+File  md5: a3ab85a5ed9ad718399a78a1e97927c4
+Flash md5: a3ab85a5ed9ad718399a78a1e97927c4
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 29 s
+Download result: PASS
+*************************** END ****************************
+

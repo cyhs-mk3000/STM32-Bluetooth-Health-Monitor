@@ -1,0 +1,30 @@
+# Keil工程临时文件
+*.bak
+*.dep
+*.lnp
+*.mpf
+*.mpj
+*.obj
+*.axf
+*.tra
+*.o
+*.lst
+*.htm
+*.crf
+*.plg
+*.rpt
+*.sct
+*.map
+*.iex
+*.uvoptx
+*.uvguix
+Debug/
+Release/
+Objects/
+Listings/
+
+# 系统缓存文件
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
